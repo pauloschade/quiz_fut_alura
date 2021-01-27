@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 // src/components/GitHubCorner/index.js
 import React from 'react';
 import styled from 'styled-components';
@@ -33,10 +34,11 @@ const SVGWrapper = styled.svg`
 `;
 
 // eslint-disable-next-line react/prop-types
+// eslint-disable-next-line no-unused-vars
 export default function GitHubCorner({ projectUrl }) {
   return (
     <Wrapper>
-      <a href={projectUrl} target="_blank" rel="noreferrer">
+      <a href="/contribuidores" target="_blank" rel="noreferrer">
         <SVGWrapper className="githubCorner" width="80" height="80" viewBox="0 0 250 250" aria-hidden="true">
           <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z" />
           <path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style={{ transformOrigin: '130px 106px' }} className="octo-arm" />
