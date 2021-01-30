@@ -1,7 +1,7 @@
 {
   "bg": "https://www.thathashtagshow.com/wp-content/uploads/2021/01/Luke-Mandalorian.jpeg",
   "title": "Star Wars",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "description": "Teste seus conhecimentos sobre star wars",
   "questions": [
     {
       "image": "https://i.pinimg.com/originals/b2/d4/2c/b2d42c734aa09692cf9fa1d0bfbd9afa.gif",
@@ -25,7 +25,61 @@
          "Eu tenho o high ground, desita!"
 
       ]
+    },
+    {
+      "image": "https://media.giphy.com/media/l3fZTg3LF8eU5SX84/giphy.gif",
+      "title": "Jabba",
+      "description": "Quem matou Jabba?",
+      "answer": 2,
+      "alternatives": [
+         "Luke Skywalker",
+         "Han Solo",
+         "Princesa Leia",
+         "Boba Fett"
+
+      ]
+    },
+
+    {
+      "image": "https://33.media.tumblr.com/e7d6773d41ef0f7bd2be03f5ba88e939/tumblr_ncw0z1SCJZ1s9ijc6o4_500.gif",
+      "title": "Midi-Clorians",
+      "description": "Quando Obi-Wan analizou o teste de sangue feito por Qui-Gon em Anakin, Quantos Midi-Clorians ele tinha?",
+      "answer": 0,
+      "alternatives": [
+         "Mais de 20 mil!",
+         "Mais de 10 mil!",
+         "Mais de 5 mil!",
+         "Mais de mil!"
+
+      ]
+    },
+
+    {
+      "image": "https://33.media.tumblr.com/e7d6773d41ef0f7bd2be03f5ba88e939/tumblr_ncw0z1SCJZ1s9ijc6o4_500.gif",
+      "title": "Manipulação da Vida",
+      "description": "Quem foi o sith responsável por descobrir como viver eternamente?",
+      "answer": 3,
+      "alternatives": [
+         "Darth Sidious/Palpatine",
+         "Darth Vader",
+         "Kylo Ren",
+         "Darth Plagueis"
+
+      ]
+    },
+
+    {
+      "image": "https://pa1.narvii.com/6262/3240119d9a49012636a6116347fbef308f643ab8_hq.gif",
+      "title": "Rogue-One",
+      "description": "Porque foi tão facil destruir a Estrela da Morte?",
+      "answer": 2,
+      "alternatives": [
+         "Um grande erro em sua construção",
+         "Luke Skywalker era muito forte e impossível de ser detido, por isso destruiu a nave",
+         "Uma falha deixada de propósito em sua construção por um aliado de rebelião"
+      ]
     }
+
   ],
   "external": [
     "https://aluraquiz-css.omariosouto.vercel.app/",
