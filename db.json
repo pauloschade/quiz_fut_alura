@@ -4,25 +4,26 @@
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
+      "image": "https://i.pinimg.com/originals/b2/d4/2c/b2d42c734aa09692cf9fa1d0bfbd9afa.gif",
+      "title": "Ahsoka Tano",
+      "description": "Essa personagem era padawan de quem?",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Luke Skywalker",
+        "Obi-Wan",
+        "Anakin Skywalker",
+        "Yoda"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://i.pinimg.com/originals/87/29/5b/87295b17aa05aaa22730a0b3df07dc81.gif",
+      "title": "Fim de Anakin, bem vindo Darth Vader",
+      "description": "O que Obi-Wan disse momentos antes de cortar as pernas de Anakin?",
+      "answer": 1,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "Você nunca será palho para mim, meu aprendiz",
+         "Eu tenho o high ground, desita!"
+
       ]
     }
   ],
